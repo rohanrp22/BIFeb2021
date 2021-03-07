@@ -1,4 +1,5 @@
 sdno GKLSNVOVNW
+<<<<<<< HEAD
 SDIVNWVLW
 
 vnidnvw
@@ -6,3 +7,9 @@ sno udnvwd
 ndsodnvew
 nsvoudnvew
 noduwveov
+=======
+SDIVNWVLWnsviwvnw
+buovdnvie
+nodvuiewnv
+\ihdvpwev]
+>>>>>>> v8
